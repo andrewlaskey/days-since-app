@@ -3,6 +3,7 @@
   	<h1>DAYS SINCE...</h1>
     <activity-list></activity-list>
     <p>How long ago did you do that hobby? Or stick to that goal you're working towards? Don't let the days drift away.</p>
+    <p>Data is stored locally, so no need for a login and it will be saved even if you close the tab.</p>
     <p>A <a href="https://vuejs.org/" target="_blank">Vue.js</a> one-night build by <a href="http://www.andrewlaskey.com" target="_blank">Andrew Laskey</a>. View on <a href="https://github.com/andrewlaskey/days-since-app" target="_blank">Github</a>.</p>
   </div>
 </template>
