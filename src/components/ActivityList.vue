@@ -35,9 +35,7 @@ export default {
   created () {
     let storedActivities = store.get('activities')
 
-    console.log(storedActivities)
-
-    if (storedActivities.length > 0) {
+    if (typeof storedActivities !== 'undefined' && storedActivities.length > 0) {
       this.activities = storedActivities
     } else {
       this.activities = [
