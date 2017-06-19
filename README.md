@@ -1,24 +1,10 @@
 # days-since-app
 
-> Motivaltional web app using Vue.js
+Motivaltional web app using Vue.js. Keep track of how many days it has been since you last did some activity. For example if you are trying to go for a run once a week, you can see if your last run was more than seven days ago.
 
-## Build Setup
+This was made in a few hours after the idea popped in my head one Sunday afternoon.
 
-``` bash
-# install dependencies
-npm install
+Thanks to [coolhue](https://webkul.github.io/coolhue/) for the colors.
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
 
-# lint all *.js and *.vue files
-npm run lint
-
-# run unit tests
-npm test
-```
-
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
